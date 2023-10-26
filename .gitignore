@@ -54,6 +54,7 @@ coverage.xml
 # Translations
 *.mo
 *.pot
+*.CREDENTIALS
 
 # Django stuff:
 *.log
@@ -128,5 +129,3 @@ dmypy.json
 # Pyre type checker
 .pyre/
 */migrations/
-
-___________AWS.CREDENTIALS
