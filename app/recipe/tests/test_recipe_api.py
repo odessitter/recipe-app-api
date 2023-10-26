@@ -378,6 +378,7 @@ class PrivateRecipeAPITests(TestCase):
         self.assertIn(s2.data, res.data)
         self.assertNotIn(s3.data, res.data)
 
+
 class ImageUploadTests(TestCase):
 
     def setUp(self):
